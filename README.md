@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 👀 I’m interested in **game development, cybersecurity, and low-level systems programming**  
+- 👀 I’m interested in **game development, cybersecurity, and high-level systems programming**  
 - 🌱 I’m currently learning **kernel-mode development, hardware spoofing, and advanced C++/Java tools**
 - 💞️ I’m looking to collaborate on **anti-cheats, spoofers, Minecraft plugins, and ethical hacking tools**
 - 📫 How to reach me: **Discord → `gl1gdev`** or via [GitHub Issues](https://github.com/Gl1gdev)
@@ -22,9 +22,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
 ---
