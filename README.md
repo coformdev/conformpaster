@@ -11,7 +11,7 @@
 - 👀 I’m interested in **game development, cybersecurity, and high-level systems programming**  
 - 🌱 I’m currently learning **kernel-mode development, hardware spoofing, and advanced C++/Java tools**
 - 💞️ I’m looking to collaborate on **anti-cheats, spoofers, Minecraft plugins, and ethical hacking tools**
-- 📫 How to reach me: **Discord → `gl1gdev`** or via [GitHub Issues](https://github.com/Gl1gdev)
+- 📫 How to reach me: **Discord → `27_piyi`** or via [GitHub Issues](https://github.com/Gl1gdev)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love building tools from scratch and always chase **performance and stealth**
 
